@@ -22,16 +22,20 @@ This repository includes the Jupyter Notebook in which the data set was analyzed
 
 ### Questions
 
-* What is the average price for a four-bedroom house sold for each year?
+#### 1. What is the average price for a four-bedroom house sold for each year?
+
 ![alt-text](https://github.com/andrewjmack/Home_Sales/blob/main/png/1.png)
 
-* What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms?
+#### 2. What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms?
+
 ![alt-text](https://github.com/andrewjmack/Home_Sales/blob/main/png/2.png)
 
-* What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet?
+#### 3. What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet?
+
 ![alt-text](https://github.com/andrewjmack/Home_Sales/blob/main/png/3.png)
 
-* What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000?
+#### 4. What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000?
+
 ![alt-text](https://github.com/andrewjmack/Home_Sales/blob/main/png/4.png)
 
 ### References
